@@ -1,0 +1,308 @@
+VALIDATION REPORT - morning review
+============================================================
+
+## Nahj ul-Balagha
+Total chunks: 475
+Chunks under 15 chars (likely parsing errors): 0
+Chunks over 500 chars (verify not merged/mis-split): 66
+  - saying 22 (topic=None, len=502): "Amir al-mu'minin, peace be upon him, said We have a right. If it is allowed to us well and good, otherwise, we will ride"...
+  - saying 30 (topic=None, len=3172): "Amir al-mu'minin, peace be upon him, said: Fear! Fear! By Allah, He has hidden your sins so much so as though He has for"...
+  - saying 37 (topic=None, len=577): "Once Amir al-mu'minin, peace be upon him, was proceeding towards Syria when the countrymen of a1-Anbar met him. Seeing h"...
+  - saying 38 (topic=None, len=780): "Amir al-mu'minin, peace be upon him, said to his son al- Hasan: O my son, learn four things and (a further) four things "...
+  - saying 40 (topic=None, len=517): "Amir a'-mu'minin, peace be upon him, said: The tongue of the wise man is behind his heart, and the heart of the fool is "...
+  - saying 42 (topic=None, len=952): "Amir al-mu'minin, peace be upon him, said to one of his companions during his sickness: May Allah make your illness a me"...
+  - saying 77 (topic=None, len=1995): "It is related that when Dirar ibn Hamzah (the correct: Damrah) ad-Dibabi (or as-Suda'i) 27 went to Mu'awiyah. and Mu`awi"...
+  - saying 82 (topic=None, len=639): "Amir al-mu'minin, peace be upon him, said: I impart to you five things which, if you ride your camels fast in search of "...
+  - saying 88 (topic=None, len=803): "(Imam) Abu Ja`far Muhammad ibn `Ali al-Baqir, peace be upon both of them, has related from Amir al-mu'minin, peace be up"...
+  - saying 93 (topic=None, len=944): 'Amir al-mu\'minin, peace be upon him, said: None of you should say, "O Allah, I seek Your protection from trouble" becaus'...
+  - saying 94 (topic=None, len=518): "Amir al-mu'minin, peace be upon him, was asked what is good and he replied: Good is not that your wealth and progeny sho"...
+  - saying 96 (topic=None, len=521): "Amir al-mu'minin, peace be upon him, said: The persons most attached to the prophets are those who know most what the pr"...
+  - saying 102 (topic=None, len=535): "Amir al-mu'minin, peace be upon him, said: Shortly a time will come for people when high positions will be given only to"...
+  - saying 103 (topic=None, len=534): "Amir al-mu'minin, peace be upon him, was seen in worn-out clothes with patches and when it was pointed out to him he sai"...
+  - saying 104 (topic=None, len=950): "It is related by Nawf al-Bikali that: I saw that one night Amir al-mu'minin, peace be upon him, came out from his bed an"...
+  - saying 108 (topic=None, len=899): "Amir al-mu'minin, peace be upon him, said: In man there is a piece of flesh attached to him with a vein and it is the st"...
+  - saying 111 (topic=None, len=569): 'Sahl ibn Hunayf al-Ansari died at Kufah after his return from the battle of Siffin and he was very much loved by Amir al'...
+  - saying 113 (topic=None, len=748): "Amir al-mu'minin, peace be upon him, said: No wealth is more profitable than wisdom, no loneliness is more estranging th"...
+  - saying 120 (topic=None, len=538): "Amir al-mu'minin, peace be upon him, was asked about the Quraysh, when he replied: As for Banu Makhzum they are the blos"...
+  - saying 123 (topic=None, len=524): "Amir al-mu'minin, peace be upon him, said: Blessed be lie who humbles himself, whose livelihood is pure, whose heart is "...
+  - saying 126 (topic=None, len=738): "Amir al-mu'minin, peace be upon him, said: I wonder at the miser who is speeding towards the very destitution from which"...
+  - saying 130 (topic=None, len=3118): "When Amir al-mu'minin, peace be upon him, returned from (the battle of) Siffin and noticed the graves outside Kufah, he "...
+  - saying 135 (topic=None, len=1068): "Amir al-mu'minin, peace be upon him, said: He who is bestowed four things is not disallowed four things: he who is allow"...
+  - saying 146 (topic=None, len=3398): "Amir al-mu'minin, peace be upon him, said: Protect your belief by charity; guard your wealth by paying Allah's share; an"...
+  - saying 149 (topic=None, len=3204): "Amir al-mu'minin, peace be upon him, said: He who does not know his own worth is ruined. Hadith n. 150: On Preaching 150"...
+  - saying 190 (topic=None, len=517): "Amir al-mu'minin, peace be upon him, said: How strange? Could the caliphate be through the (Prophet's) companionship but"...
+  - saying 191 (topic=None, len=714): "Amir al-mu'minin, peace be upon him, said: In this world man is the target towards which the arrows of death fly, and is"...
+  - saying 199 (topic=None, len=713): "Amir al-mu'minin, peace be upon him, said about the crowd of people: These are the people who, when they assemble togeth"...
+  - saying 211 (topic=None, len=614): "Amir al-mu'minin, peace be upon him, said: Generosity is the protector of honour; forbearance is the bridle of the fool;"...
+  - saying 228 (topic=None, len=633): "Amir al-mu'minin, peace be upon him, said: He who is sorrowful for this world is in fact displeased with the dispensatio"...
+  - saying 232 (topic=None, len=757): "Amir al-mu'minin, peace be upon him, said: He who gives with his short hand is given by a long hand. As-Sayyid ar-Radi s"...
+  - saying 235 (topic=None, len=509): "It was said to Amir a'-mu'minin, peace be upon him: Describe the wise to us; and he said: The wise is one who places thi"...
+  - saying 252 (topic=None, len=1208): "Amir al-mu'minin, peace be upon him, said: Allah has laid down iman (belief) for purification from polytheism; salat (pr"...
+  - saying 257 (topic=None, len=517): "Amir al-mu'minin, peace be upon him, said to Kumayl ibn Ziyad an-Nakha'i: O Kumayl, direct your people to go out in the "...
+  - saying 260 (topic=None, len=8204): "Amir al-mu'minin, peace be upon him, said: There is many a man being gradually brought towards punishment by good treatm"...
+  - saying 261 (topic=None, len=1055): "When the news of the attack of Mu'awiyah's men on al-Anbar reached Amir al-mu'minin, peace be upon him, he himself came "...
+  - saying 262 (topic=None, len=678): "262- It is said that al-Harith ibn Hawt came to Amir al-mu'minin, and said: Do you believe I can ever imagine that the p"...
+  - saying 266 (topic=None, len=502): "Someone asked Amir al-mu'minin, peace be upon him, to define faith for him, so he said: Come to me tomorrow so that I en"...
+  - saying 269 (topic=None, len=661): "Amir al-mu'minin, peace be upon him, said: There are two kinds of workers in the world. One is a person who works in thi"...
+  - saying 270 (topic=None, len=1201): "It is related that during the days of (Caliph) 'Umar ibn al-Khattab, the question of the excess of the ornaments of the "...
+  - saying 271 (topic=None, len=509): "It is related that two persons were brought to Amir al-mu'minin, peace be upon him. They had committed theft of public p"...
+  - saying 273 (topic=None, len=884): "Amir al-mu'minin, peace be upon him, said: Know with full conviction that Allah has not fixed for any person more liveli"...
+  - saying 289 (topic=None, len=1251): "Amir al-mu'minin, peace be upon him, said: In the past I had a brother-in-faith 73 and he was prestigious in my view bec"...
+  - saying 291 (topic=None, len=744): "Amir al-mu'minin, peace be upon him, said in condoling Ash'ath ibn Qays about (the death of) his son: O Ash' ath, if you"...
+  - saying 311 (topic=None, len=680): "When Amir al-mu'minin, peace be upon him, came to Basrah he sent Anas ibn Malik to Talhah and az-Zubayr to make them rec"...
+  - saying 322 (topic=None, len=737): "When Amir al-mu'minin, peace be upon him, returned to Kufah from Siffin he passed by the residences of the Shibamites (w"...
+  - saying 333 (topic=None, len=508): "Amir al-mu'minin, peace be upon him, said describing a believer: A believer has a cheerful face, a sorrowful heart, a ve"...
+  - saying 343 (topic=None, len=658): "Amir al-mu'minin, peace be upon him, said: Utterances are preserved and actions are to be tried. Every soul, for what it"...
+  - saying 344 (topic=None, len=599): "Amir al-mu'minin, peace be upon him, said: O groups of people, fear Allah, for there is many a man who aspires for what "...
+  - saying 349 (topic=None, len=989): "Amir al-mu'minin, peace be upon him, said: He who sees his own shortcomings abstains from looking into other's shortcomi"...
+
+First 3 chunks of Nahj ul-Balagha:
+  [1] (topic=None) Amir al-mu'minin, peace be upon him, said: During civil disturbance be like an adolescent camel 1 who has neither a back strong enough for riding nor udders for milking.
+  [2] (topic=None) Amir al-mu'minin, peace be upon him, said: He who adopts greed as a habit devalues himself; he who discloses his hardship agrees to humiliation; and he who allows his tongue to overpower his soul debases the soul.
+  [3] (topic=None) Amir al-mu'minin, peace be upon him, said: Miserliness is shame; cowardice is a defect; poverty disables an intelligent man from arguing his case; and a destitute person is a stranger in his home town.
+Last 3 chunks of Nahj ul-Balagha:
+  [478] (topic=None) Amir al-mu'minin, peace be upon him, said: Allah has not made it obligatory on the ignorant to learn till He has made it obligatory on the learned to teach.
+  [479] (topic=None) Amir al-mu'minin, peace be upon him, said: The worst comrade is he for whom formality has to be observed. 101 As-Sayyid ar-Radi says: This is because formality is inseparable from hardship and it is an evil that is caused by a comrade for whom formality is observed. Consequently, he is the worst of all comrades.
+  [480] (topic=None) Amir al-mu'minin, peace be upon him, said: If a believer enrages his brother, it means that he leaves him. As-Sayyid ar-Radi says: It is said ‘‘hashamahu’’ or ‘‘ahshamahu’’ to mean ‘‘He enraged him’’. According to another view it means ‘‘He humiliated him’’. While ‘‘ihtashamahu’’ means ‘‘He sought these for him’’, and that is most likely to cause him to separate. This is the end of our selection of the utterances of Amir al-mu’minin, peace be upon him, We are praiseful to Allah, the Glorified, for having enabled us to collect the scattered utterances from various sides and to bring together from different places the material that was lying far away. We intend, as we stipulated in the beginning, to leave some blank pages at the end of every chapter for the insertion of whatever we may get and the addition of whatever comes to us, for it is possible that some material which is not in our view at present or which is not available may become known to us and fall in our hands. We have no ability save through Allah. In Him we trust, and He is Sufficient for us. He is the best Supporter. This book was completed in the month of Rajab, in the year 400 A.H. May Allah send blessings on our master Muhammad the last of the prophets who guided us towards the best path, and his chaste descendants and his companions who are the stars of conviction.
+
+------------------------------------------------------------
+
+## Ghurar al-Hikam
+Total chunks: 11058
+Chunks under 15 chars (likely parsing errors): 2
+  - saying 24 (topic='Muhammad (s) and his Progeny'): 'ar.'
+  - saying 10 (topic='Lust-'): 'Lust entices.'
+Chunks over 500 chars (verify not merged/mis-split): 26
+  - saying 5 (topic='Enjoining Good and Forbidding Evil', len=540): 'Whoever observes excesses being committed and people being called towards evil, and disapproves of it with his heart, is'...
+  - saying 8 (topic='Enjoining Good and Forbidding Evil', len=1068): 'He (‘a) said regarding those who enjoin good and forbid evil: From among them there is one who disapproves of evil with '...
+  - saying 60 (topic='The Believer', len=509): 'The cheerfulness of a believer is in his face and his sorrow is in his heart. He has the broadest chest (i.e. has great '...
+  - saying 33 (topic='Government and Sovereignty', len=577): 'By the One who split the grain and created human being! If people had not come to me and supporters had not exhausted th'...
+  - saying 16 (topic='Muhammad (s) and his Progeny', len=520): 'Indeed here (and he pointed towards his chest) there is great knowledge; if only I could get someone who would bear it. '...
+  - saying 63 (topic='Muhammad (s) and his Progeny', len=727): 'If I wished to inform every man from among you of where he has come from and where he is going to and about all his affa'...
+  - saying 79 (topic='Muhammad (s) and his Progeny', len=563): 'People! There is no proof of Allah, the Glorified, on His earth greater than our Prophet, Muhammad (s), nor is there any'...
+  - saying 85 (topic='Muhammad (s) and his Progeny', len=570): 'The devout companions of the Messenger of Allah (s) know that I never disobeyed Allah, the Glorified, or His Prophet for'...
+  - saying 42 (topic='Good Character', len=1262): 'I had, in the past, a brother-in-faith and his view of the world as something insignificant made him great in my eyes. H'...
+  - saying 68 (topic='Good Character', len=1215): 'He (‘a) said about the one whom he censured: If he falls sick he regrets having abandoned the work and if he is healthy,'...
+  - saying 93 (topic='This World', len=1022): 'Verily this world is the abode of truth for the one who believes it [to be transient], the abode of wellbeing for the on'...
+  - saying 101 (topic='This World', len=597): 'Safety in this world is not acquired except by its renunciation. People are tested in it through tribulations so those w'...
+  - saying 20 (topic='Hope in [The Mecy of] Allah and [in] others', len=812): 'Aba Dharr! Indeed you got angry for the sake of Allah so have hope in the One whom you got angry for. Indeed the people '...
+  - saying 10 (topic='Injustice and Oppression-', len=818): 'Know that injustice is of three kinds: the injustice that is not forgiven, the injustice that is not left [unquestioned]'...
+  - saying 1 (topic='The celestial realm-', len=634): 'He (‘a) was asked about the [beings in the] celestial realm, so he replied: [They are] forms devoid of matter, above [th'...
+  - saying 30 (topic='Actions and deeds-', len=528): 'Act now, O servants of Allah, while the neck is free [from the noose] and the spirit is unfettered in the period of guid'...
+  - saying 25 (topic='The Quran-', len=572): 'In describing the Qur’an [he said]: It is the decisive word and not a jest. It is the articulator of the practice of jus'...
+  - saying 3 (topic='Divine decree and destiny-', len=549): 'Verily Allah, the Exalted, does not give a servant more than what He has decreed for him in the Wise Reminder, even thou'...
+  - saying 21 (topic='The heart-', len=898): 'Indeed there is a piece of flesh that has been placed inside this human being which is the most amazing thing in him, an'...
+  - saying 37 (topic='Important events-', len=802): 'How amazing it is; and why would I not be amazed by the mistake of this community (or these groups) with their different'...
+  - saying 29 (topic='Wealth and riches-', len=518): 'Verily that which is in your possession has had an owner before you and will go to someone after you. You are only amass'...
+  - saying 14 (topic='Women-', len=516): 'People! Verily women are deficient in faith, lacking in intellect and deficient in shares. As for their deficiency in fa'...
+  - saying 24 (topic='Sincere advice-', len=655): 'People, accept advice from the one who advises you and receive it from the one who carries it to you with obedience, and'...
+  - saying 7 (topic='People-', len=525): 'The people who work in this world are of two types: one works in this world for this world; his world has indeed distrac'...
+  - saying 38 (topic='Admonition-', len=593): 'people, how much admonition will you be given yet you decline it? How much have the preachers preached to you, the warne'...
+  - saying 41 (topic='Admonition-', len=1784): 'He manifests the traits of the virtuous yet secretly performs the actions of the wicked. He hates death because of his n'...
+Distinct topics: 715
+Topics with only 1 saying (possible mis-detected split): 194
+  - 'The Camel'
+  - 'The Secure'
+  - 'The Trustworthy'
+  - 'Strengthening oneself'
+  - 'Misery'
+  - 'Cold Weather'
+  - 'Insistence'
+  - 'Wantonness'
+  - 'The Falsifier'
+  - 'Early rising'
+  - 'Attention'
+  - 'The Umayyads'
+  - 'Fabricating Lies'
+  - 'The House of Allah'
+  - 'The Treasury'
+  - 'The Merchant'
+  - 'Earth'
+  - 'Abandoning for the Sake of Allah'
+  - 'The Experienced'
+  - 'Loftiness'
+  - 'Intercourse'
+  - 'The Beautiful'
+  - 'Moderation'
+  - 'Evidence'
+  - 'The Disproved'
+  - 'The Hajj'
+  - 'The Warner'
+  - 'The Prohibited'
+  - 'The Party of Allah'
+  - 'Grief for what has been Lost'
+  - 'The Reckoning'
+  - 'High Regard'
+  - 'The Envied'
+  - 'Physical Beauty'
+  - 'Gaining Favour'
+  - 'Belittling others'
+  - 'One who is on the Right'
+  - 'Rights of the People'
+  - 'The Lawful'
+  - 'The Praiseworthy and the Disgraceful'
+  - 'The Perplexed'
+  - 'The Servant'
+  - 'Muteness'
+  - 'Ideas'
+  - 'The Daring'
+  - 'Mistakes'
+  - 'Sucession'
+  - 'The Caliphs [Uthman and..]        )       ...)'
+  - 'Creation'
+  - 'Wine'
+  - 'Anonymity'
+  - 'The Frustrated'
+  - 'The Virtuous'
+  - 'The Choice of Allah'
+  - 'Following up Matters'
+  - 'Desertion and Abandonment'
+  - 'Study'
+  - 'The Guide'
+  - 'Seriously Ill'
+  - 'The Despicable'
+  - 'Loathsome Actions and Traits'
+  - 'Flattery'
+  - 'The Compassionate'
+  - 'Resrtaint'
+  - 'Self-Scrutiny'
+  - 'Mode Of Transport'
+  - 'The Souls'
+  - 'The Intended Objective'
+  - 'Restraint'
+  - 'Adornment'
+  - 'Competition'
+  - 'Prison'
+  - 'Aptness'
+  - 'Dismissal'
+  - 'Theft'
+  - 'Aid'
+  - 'Travel       ‐'
+  - 'The Envoy-'
+  - 'Spilling blood             ‐'
+  - 'Ships of Salvation -'
+  - 'The Preceding-'
+  - 'Condolences and Congratulations-'
+  - 'Mien-'
+  - 'Hearing and Sight-'
+  - 'Righteous Practices-'
+  - 'Facilitation-'
+  - 'Vilification-'
+  - 'East and West-'
+  - 'Partnership-'
+  - 'Dissension-'
+  - 'Schadenfreude-'
+  - 'The Disgrace of a Man-'
+  - 'Young Children-'
+  - 'The Chest-'
+  - 'Change of Circumstances-'
+  - 'The Rigid-'
+  - 'Being Dutiful with Allah-'
+  - 'Jubilation-'
+  - 'Criticism-'
+  - 'Obeying commandments-'
+  - 'The Tyrant-'
+  - 'The sought after-'
+  - 'Innermost thoughts-'
+  - 'Frivolity-'
+  - 'Support-'
+  - 'Lightness of one’s burden-'
+  - 'Servitude-'
+  - 'Emancipation-'
+  - 'Slip up-'
+  - 'The Derriere-'
+  - 'The Denumerable-'
+  - 'The middle course-'
+  - 'The Lover-'
+  - 'Empathy-'
+  - 'Filial impiety-'
+  - 'The Cause And The Effects-'
+  - 'The celestial realm-'
+  - 'Development and prosperity-'
+  - 'Delving deep-'
+  - 'Dealings-'
+  - 'The Obstinate-'
+  - 'The crooked-'
+  - 'The Masses-'
+  - 'Taunting-'
+  - 'Seeing-'
+  - 'Helper-'
+  - 'Outcome-'
+  - 'Usurpation-'
+  - 'Fighting-'
+  - 'Mistake-'
+  - 'Betrayal-'
+  - 'The unseen-'
+  - 'The utmost-'
+  - 'Being optimistic-'
+  - 'The one who is enthralled-'
+  - 'Fleeing to Allah-'
+  - 'Fabrication of lies-'
+  - 'Ignominy-'
+  - 'Loss-'
+  - 'Leaving the matter to Allah-'
+  - 'Facing issues-'
+  - 'Martyrdom in the way of Allah-'
+  - 'Plunging in-'
+  - 'The near one-'
+  - 'Knockng the door-'
+  - 'Being cut off from Allah-'
+  - 'Sitting back-'
+  - 'Emulation-'
+  - 'The least-'
+  - 'Being less-'
+  - 'Qunut (Raising hands in supplication)-'
+  - 'Establishing the command of Allah-'
+  - 'Secrecy-'
+  - 'Amassing [wealth]-'
+  - 'The disliked-'
+  - 'The ideal one-'
+  - 'Plots-'
+  - 'There is no God but Allah-'
+  - 'Confusion-'
+  - 'Milk-'
+  - 'Insults-'
+  - 'Courteousness-'
+  - 'Vain talk-'
+  - 'Meeting Allah-'
+  - 'Hinting-'
+  - 'Walking-'
+  - 'The slave-'
+  - 'Disposition-'
+  - 'Irritation-'
+  - 'The inaccessible-'
+  - 'The dead-'
+  - 'Secret conversation-'
+  - 'Warning-'
+  - 'The devotee-'
+  - 'Supporting falsehood-'
+  - 'One whose supporter is Allah-'
+  - 'The viewed-'
+  - 'Being systematic in work-'
+  - 'Deficiency-'
+  - 'The Deficient-'
+  - 'The Defaulters, The Iniquitous And The Transgressors -'
+  - 'Marraiges-'
+  - 'Deputyship-'
+  - 'Obtainment-'
+  - 'Attainment-'
+  - 'Pain-'
+  - 'Tattletale-'
+  - 'Agreement-'
+  - 'The grant-'
+  - 'Suspicion-'
+  - 'The scandal monger-'
+  - 'Irresponsibility-'
+  - 'The frightful-'
+  - 'Disdain-'
+
+First 3 chunks of Ghurar al-Hikam:
+  [1] (topic='Parents') Being good to parents is the greatest [and most important] duty.
+  [2] (topic='Parents') Be good to your parents and your children will be good to you.
+  [3] (topic='Parents') Whoever is good to his parents, his child will be good to him.
+Last 3 chunks of Ghurar al-Hikam:
+  [49] (topic='Certitude-') Whoever possesses certitude does good [deeds].
+  [50] (topic='Certitude-') Those who possess certitude, the dedicated [and sincere] ones and the altruistic ones are from the people of the Elevations.1
+  [51] (topic='Certitude-') The possessor of certitude is the most sorrowful of all people about [the condition of] his soul.
+
+------------------------------------------------------------
