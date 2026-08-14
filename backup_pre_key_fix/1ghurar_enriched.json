@@ -1,0 +1,4587 @@
+[
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Showing kindness to the enemy is one of the two triumphs.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Anger & Forgiveness",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 2,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Following up one favour with another favour is from the perfection of munificence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 3,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good is the nature of the righteous and doing evil is the nature of the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 4,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence from the wicked corrupts just as much as it reforms from the honourable.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If a righteous act is not nurtured, it wears away, just like worn out garments and dilapidated buildings.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Do good and you shall enthral.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 7,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Bestow goodness and you shall advance.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 8,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Do good and you will be thanked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 9,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Forget your gift, [and] remember your promise.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 10,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Give and you shall become capable (or be chosen).",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 11,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Give generously and you shall gain authority.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 12,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Confer favours and you will be praised.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 13,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Extend your goodness and do no harm.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 14,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Be good [to others] and good will be done to you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 15,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Be good to the evildoer and you will dominate him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 16,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Bestow favours on the people and your status will increase.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 17,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Show kindness to whomever you wish and you will become his master.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 18,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Confer favours and you will be thanked, fear [Allah] and you will be feared [by the people] and do not crack [silly] jokes such that you are belittled.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 19,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Seize the opportunity to perform righteous deeds and be careful of your obligations towards your brothers.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Time & Opportunity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 20,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Start by giving the one who has not asked you, and extend your favour to the one who has sought it, and be cautious never to turn away a beggar.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 21,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Donate your wealth generously towards righteous works and support your friend[s] with it, for indeed generosity is a more befitting trait for the free.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 22,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Do good to the one who is under your authority and the one under whose authority you are will do good to you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 23,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best faith is [that which is accompanied by] righteousness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 24,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best favours are those that correspond with divinely ordained laws.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 25,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best act is that which benefits the pious ones.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 26,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best act is that which benefits those who are deserving of it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 27,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The merit of a righteous action is better than the action [itself].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 28,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The greatest righteous act is establishing ties with near relatives.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Family, Parents & Marriage"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 29,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The most beautiful act of a person in a position of power is conferring of favours [to those under him].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Leadership & Governance",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 30,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best treasure is a free man who has been reserved [in your friendship because of your kindness to him].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 31,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The greatest good deed is supporting one’s brothers [financially].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 32,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best gift is forgoing obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 33,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The noblest of favours are the good turns of the munificent [and honourable] ones.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 34,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The most worthy of giving [to] is the one who feels the least in need of asking [from others].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 35,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best grant is that which is given before it is sought.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 36,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The most pleasing kindness is offering [something] without being asked [for it].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 37,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best grant is that which is [bestowed] before the humility of having to ask [for it].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 38,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best of all people who have preceded you is the one who has preceded you in his good expectation of you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 39,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The most worthy of favour among the people is one who is patient when he is put off, excuses when he is denied and shows gratitude when he is given.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Patience & Endurance",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 40,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Of all people, the most worthy of doing good to others is the one upon whom Allah has bestowed favours and granted with the ability [to do good to others].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 41,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The most worthy of bestowing favours [to others] is the one upon whom numerous favours of Allah have been bestowed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 42,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily the good act that brings reward quickest is the act of kindness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 43,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily giving away this wealth is an acquisition [for the Hereafter] and withholding it is an affliction.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 44,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily spending this wealth in obedience to Allah is the greatest blessing and spending it in disobedience to Him is the greatest tribulation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 45,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Indeed extending greetings is from sublime morals.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 46,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily Allah, the Glorified, loves everyone who is open-handed and strong in faith.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 47,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily the value of asking is greater than the worth of what is given, so do not regard that which you give as much, for it will never be equal to the humiliation of asking.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 48,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily the little that is from Allah, the Glorified, is more valuable than the plenty [that is gotten] from His creatures.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Divine Decree & Trust in Allah",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 49,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily the good turn that you did to one of the people was only a means to ennoble yourself and embellish your honour, so do not seek gratitude from others for that which you did for yourself.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Sincerity & Hypocrisy",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 50,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Indeed your goodness towards the ones who plots against you from your opponents and enviers is more irritating for them than your trying to do them harm, and it is [also] a means of inviting them to reform [themselves].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Anger & Forgiveness",
+      "Envy & Jealousy",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 51,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily your munificence does not extend to all of the creation, so aim it towards the noblest of creation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 52,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "It is not from the practice of the virtuous to delay the bestowal of favours.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 53,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is authority.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 54,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is distinction.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 55,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Kindness is [a cause of] love.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 56,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolent acts are loans.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 57,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good [to others] is beneficial.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 58,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is merit, munificence is nobility.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 59,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is a treasure.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 60,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The human being is a slave of kindness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 61,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is the alms-tax for blessings.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 62,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolent acts are the best booty.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 63,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Kindness is the pinnacle of excellence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 64,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Kindness enslaves (or enthrals) human beings.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 65,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is the most honourable authority.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 66,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The evil deed is erased by a benevolent act.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Repentance & Sin",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 67,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Merit is [acquired] with benevolence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 68,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Conferring favours is the most excellent munificence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 69,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is an everlasting reserve.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 70,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Kindness is a treasure and the munificent is one who obtains it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 71,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "People are the followers of what they deem to be good.1",
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 72,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The good turn done by an intelligent (or an honourable) person is most excellent [in] merit.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 73,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The favour of an ignoble person is the worst depravity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 74,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Rewarding good with evil is [the highest form of] ingratitude.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 75,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is the most thriving cultivation and the best treasure.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 76,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good to the one who offends you is the most excellent merit.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 77,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "A benevolent act is sullied by repeatedly putting one under obligation through it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 78,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good to the honourable ones is the best provision and the noblest deed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 79,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good to the one who offends [you] reforms the enemy.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 80,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Benevolence is a treasure so consider whom you are leaving it with.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 81,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Righteous work is a provision, so be wary of whom you are placing it with.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 82,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If you confer favours, you will be served.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 83,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily if you do good [to others] then you are [actually] honouring your own soul and doing good to it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 84,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Verily you are more in need of doing good to the people than of accumulating wealth.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 85,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The bane of giving is procrastination.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 86,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "When you perform a good turn then conceal it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Sincerity & Hypocrisy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 87,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "When a good turn has been done to you then publicize it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 88,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "When you [wish to] give, be quick.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 89,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "When a good turn is done to you, recall it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 90,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "When you do a good turn [to someone], forget it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Sincerity & Hypocrisy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 91,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If you do good to a vile person, he will wrong you in return for your goodness to him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 92,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "I am free to choose with regards to the one upon whom I have not bestowed any favour but am bound to complete my favour on the one upon whom I have bestowed it; for if I complete it, I will have preserved it and if I cut it off then I will have lost it, and if I lose it then why did I embark on it [in the first place]?",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 93,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If your bounty falls short of reaching the weak, then [at least] let your mercy reach them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 94,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If you find from the needy people one who will carry your provision for you up to the Day of Resurrection and return it to you tomorrow when you need it most, then take the opportunity and give it to him, and increase the provisions that you give him [to carry for you] while you are able to, for it is possible that you may [at one time] seek him but not find him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 95,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through kindness, human beings are enslaved.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 96,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through benevolence, gratitude lasts.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 97,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through kindness, hearts are owned.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 98,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through kindness, freemen are owned.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 99,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through kindness and covering faults with forgiveness, eminence increases.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 100,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Through kindness, people are enthralled.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 101,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Giving generously is the alms-tax of blessings.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 102,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Extending the hand in giving is the most beautiful virtue and the most excellent trait.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 103,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Stretching out the hand in giving increases reward and multiplies recompense.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 104,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Expediting good turns is the basis of righteousness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 105,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Wasting benevolence is showing it to someone who does not comprehend [its value].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 106,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Do good [to people] and you will be served; be forbearing (or gain knowledge) and you will advance.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Patience & Endurance",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 107,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The completion of benevolence is abandoning [putting one under] obligation by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 108,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The peoples’ expectation of your kindness is better than their fear of your retribution.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Leadership & Governance",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 109,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Adorn yourselves by taking up kindness, stopping transgression, acting upon the truth, being just and impartial, keeping away from corruption and improving your Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Justice & Oppression",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 110,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The beauty of benevolence is [in] relinquishing obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 111,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The beauty of a benevolent act is in completing it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 112,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Denying a favour instigates the ugliness of obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 113,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Denying the benevolence [of others] leads to deprivation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 114,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best good turn is one that benefits the righteous.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 115,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best benevolent act is one that is neither preceded by delay nor followed by obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 116,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The best grant is that which is [given] without being sought.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 117,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Act with kindness towards your enemy for this is one of the two triumphs.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Enmity, Conflict & Dispute",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 118,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever bestows favours on others, they are thankful for his authority.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 119,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever shows benevolence, his habit is praised.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 120,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The pinnacle of kindness is being kind to the believers.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 121,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The pinnacle of generosity is being expeditious in giving.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 122,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The pinnacle of faith is doing good to people.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 123,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The pinnacle of excellence is doing good to the virtuous.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 124,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The pinnacle of depravity is doing good to the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 125,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Nurturing a good turn is better than starting it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 126,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Increase your benevolent acts and bestow more favours, for this is a more lasting provision and a more beautiful legacy.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 127,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The cause of affection is benevolence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 128,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Continuous bestowal [of favours] is the practice of the honourable.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 129,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Ask for good from one who forgets it and do good to the one who recalls it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 130,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The worst grant is that which is preceded by delay and followed by obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 131,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Performing benevolent actions protects one from falling into disgrace.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 132,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing good turns is from the merits of the human being.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 133,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Performing benevolent actions causes the abundant flow of blessings and wards off calamity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 134,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The good turn of wealth ceases with its cessation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 135,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Blessed is the one who does good to the servants [of Allah] and prepares provisions for the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 136,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "He who does a good turn to those who are undeserving of it has oppressed it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Justice & Oppression"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 137,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The one who confers his favours to the honourable ones acquires the most sublime gains.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 138,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Espouse kindness, for it is the best cultivation and the most profitable merchandise.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Work, Trade & Earnings"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 139,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Be good to the servants [of Allah] and act justly in the lands, [by this] you will safe when the witnesses are presented [on the Day of Judgment].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Justice & Oppression",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 140,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Perform benevolent works, for they are the best provisions for the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 141,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Perform benevolent acts and do good to your near relatives and neighbours, for these two actions prolong life and make the lands prosper.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Family, Parents & Marriage"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 142,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "By successive acts of kindness and benevolence, the free man is enslaved.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 143,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The habit of benevolence is the source of capability [or power].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 144,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "I am amazed at the one who buys slaves with his wealth, how can he not buy the freemen with his benevolence, thereby enthralling them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 145,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "In every [act of] benevolence there is kindness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 146,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "In every good turn there is indebtedness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 147,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Sometimes it is better to give in order to fulfil a promise [and not delay it].",
+    "flag_status": "flagged",
+    "flag_note": "Contains bracketed editorial commentary/reconstruction within the text.",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 148,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Send your good turn ahead [for the Hereafter] and you will benefit.",
+    "flag_status": "flagged",
+    "flag_note": "Contains bracketed editorial commentary/reconstruction within the text.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 149,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Every [form of] benevolence is a favour.",
+    "flag_status": "flagged",
+    "flag_note": "Contains bracketed editorial commentary/reconstruction within the text.",
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 150,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "How many a human being has been enslaved by benevolence!",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 151,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Increased rendering of benevolent works prolongs life and spreads renown.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Health, the Body & Sickness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 152,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Doing a lot of good turns raises one’s honour and makes gratitude last.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 153,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "The guarantee of continued affluence and capability [and power] is [in] following up one favour with another favour.",
+    "flag_status": "flagged",
+    "flag_note": "Contains bracketed editorial commentary/reconstruction within the text.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 154,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Everything has a merit and the merit of the honourable ones is doing good to the people.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 155,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Let your traits be generosity and benevolence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 156,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One cannot show gratitude for blessings in a better way than using them to benefit others.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 157,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "If you were to see benevolence in the form a person, you would surely see him as a beautiful form that surpasses the worlds [in its beauty].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 158,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who bestows goodness [to others] is served [by them].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 159,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who generously gives [from] his wealth becomes great.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 160,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who bestows favours fulfils the right of authority.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 161,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who puts others under obligation for his favour, spoils it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 162,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who extends his goodness [to the people] deserves leadership.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 163,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who renders a beautiful deed acquires great praise.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 164,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who performs a benevolent action gains reward and gratitude.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 165,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who cuts off his usual favours, Allah will cut off his present capabilities.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 166,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does not bestow favours will not achieve nobility.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 167,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does not give while he is sitting [in comfort] will not be given when he is standing [in a state of struggle].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 168,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does not give while he is sitting [in ease] will be deprived when he is standing [in adversity].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 169,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who favours an ignorant person demonstrates the extent of his own ignorance.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 170,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who conceals the favour [that has been done to him] is punished with deprivation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 171,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who withholds favours is stripped of [his] ability.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 172,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does good to a freeman gains a [great] reward.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 173,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does a kind act earns good praise.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 174,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One whose benefactions are abundant demonstrates his great nobility.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 175,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One whose kindness is abundant is loved by his brothers.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 176,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever extends his goodness [to others], more people are inclined towards him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 177,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who accepts your gift has [actually] assisted you in gaining honour.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 178,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who perfects his kindness gives generously before he is asked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 179,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does good to the undeserving has wronged his goodness.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 180,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who gives in cases that are undeserving fails to give [the rights] to those who are deserving.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Justice & Oppression"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 181,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who is ungrateful for a good turn deserves an ugly separation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 182,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who reciprocates a good turn with a better one has [appropriately] repaid it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 183,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One whose benefaction increases, his assistants and helpers [also] increase.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 184,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever extends his benevolence [to others], the hearts become inclined towards him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 185,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who grants generously before being asked, then he is truly honourable and much-loved.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 186,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who repays goodness with evil has rid himself of magnanimity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 187,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever does good to the people, their love for him lasts.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 188,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who fulfils the [debt of] goodness that was done to him in the past has attained true freedom.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 189,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who turns to you hopefully has already got a good impression of you, so do not disappoint his expectation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 190,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever fulfils the rights of one who does not fulfil his rights has enslaved him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 191,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who is kind to the people, his outcomes become good and the ways [to his goals] become easy for him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 192,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever accepts a good turn has made the one who rendered it to him his master.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 193,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who accepts your good turn has made his right over you mandatory [on himself].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 194,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever does good to the one who does evil to him has taken the all-encompassing excellence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Anger & Forgiveness",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 195,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who is not grateful for favours is not spared from deprivation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 196,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who begins giving without being asked and completes good deeds without any obligation has perfected his favour.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 197,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who bestows a favour on the ungrateful one prolongs his rage.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 198,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who is generous in granting [favours], enthrals the people of this world.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 199,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who does not nurture his good turn has indeed lost it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 200,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who accepts your good turn has sold you his honour and magnanimity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 201,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who accepts your good turn has humbled his prestige and honour before you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 202,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "Whoever does not nurture his favour, then it is as if he did not bestow it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 203,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not give preference to an ignoble person over a noble one.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 204,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Never associate with one who has no intelligence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 205,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not associate with a fool, for he will embellish his actions for you and want you to become like him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 206,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not associate with those who love this world, for if you have less they will disregard you and if you have more they will envy you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Envy & Jealousy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 207,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not frequent the company of a wicked person, for if you are bestowed with a blessing, he will envy you and if a misfortune befalls you, he will abandon you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Envy & Jealousy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 208,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not acquire more ‘worldly’ brothers, for if you become incapable of fulfilling their wishes they turn into enemies; and their example is like the example of fire – a lot of it burns and a little of it benefits.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 209,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Take comfort for yourself in solitude rather than bad company.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 210,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be more confident of your intelligent foe than your ignorant friend.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 211,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Whenever the companionship prolongs, the [mutual] respect is affirmed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 212,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "For everything there is a bane and the bane of a good person is bad company.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 213,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "For everything there is a vexation and the vexation of your lifetime is [being in] the company of an enemy.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Enmity, Conflict & Dispute",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 214,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who mingles with the wicked is not intelligent.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 215,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "There is nothing that brings one closer to good and keeps one safer from evil than keeping company with the righteous.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 216,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who accompanies the wise is respected.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 217,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to accompany the immoral, the wretched, and those who openly disobey the commandments of Allah.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 218,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be just as wary of sitting in the company of the ignorant, as you would be at ease in the company of the intelligent.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 219,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to remain in the company of the immoral, for surely evil clings to evil.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 220,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to be cheated by your friend or to be overcome by your foe.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 221,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to befriend a fool, for he will harm you while trying to benefit you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 222,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to befriend a miser, for he will hold back [from assisting you] when you are most in need of him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 223,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful not to accompany the wicked, for they consider it a favour upon you to keep you safe from themselves.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 224,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Your brother is your supporter in times of difficulty.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 225,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "If you want to cut off ties with your brother [in faith] then leave some of your friendship for him, so that he may return to it someday if he so wishes.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 226,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Before choosing a friend, assess him and try hard to find out about him, otherwise you will be forced by necessity to associate with the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 227,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Accompanying a person [for some time] is sufficient to evaluate him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 228,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "[Even] if you have gained confidence and trust in your close friend, safeguard some of your affairs and conceal some of your secrets [from him], for it is possible that you may regret [revealing them] at some time [in the future].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Backbiting, Gossip & Secrecy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 229,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "As the bond of brotherhood strengthens, compliments become distasteful.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 230,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "When you [decide to] establish the bond of brotherhood, then honour the right of brotherhood.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 231,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "If you are certain of the affection of your brother then don’t be concerned [about what transpires] when you meet him or he meets you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 232,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who takes a brother after successfully evaluating him, his companionship will last longer and his bond will be more firmly established.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 233,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who does not investigate before he takes a brother will be misled to association with the depraved.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 234,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who takes a brother without evaluation will be forced by necessity to associate with the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 235,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "The amity between those who are brothers for the sake of Allah endures because of its firm foundation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 236,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "True brotherhood is an embellishment in times of ease and a provision in times of difficulty.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 237,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "The brother acquired for the sake of Allah is the nearest of relations – even closer than mothers and fathers.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Family, Parents & Marriage"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 238,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Your brother for the sake of Allah is one who guides you towards rectitude, forbids you from corruption and assists you to improve your Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 239,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Your true friend and brother is the one who protects you with his life, and prefers you over his wealth, his children and his spouse.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 240,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "It is only a few of the brothers who are fair.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 241,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "An evil companion is the worst of companions; and the disease of ignobility is a concealed disease.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 242,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Accompany the virtuous and you will become one of them; separate yourself from the evil people and you will be dissociated from them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 243,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be sure to investigate before taking anyone as your brother, for assessment is the gauge that distinguishes the virtuous from the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 244,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who is courteous to his companion will gain his acceptance, and one who is harsh to him will drive him away and get separated from him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 245,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who is not pleased with his friend except when he prefers him over himself, will always be resentful.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 246,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One whose companionship is for the sake of Allah, his companionship is honourable and his friendship is upright.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 247,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Be careful of the one whose friendship is not for the sake of Allah, for his friendship is wicked and his company is doomed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 248,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who does not assist you by [his] accompanying you, then his company is [actually] a burden on you, if [only] you knew.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 249,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who does not overlook the mistakes of his friend will die lonely.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 250,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who seeks a truly loyal friend, seeks that which cannot be found.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 251,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not accompany the one who lacks determination.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 252,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One whose friendship does not benefit you, his enmity will harm you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 253,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not excuse one who is insincere in his friendship with you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Sincerity & Hypocrisy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 254,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One of the conditions of faith is [having] good companionship with one’s brothers.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 255,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Associating with the ignorant stems from lack of intelligence.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 256,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Never take your friend’s enemy as your friend, thereby making an enemy out of your friend.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 257,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "There is no life for one who is separated from those whom he loves.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Grief & Loss",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 258,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "There is no good in a stingy (or suspicious) friend.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 259,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "A friend is not truly a friend unless he protects his brother in his absence, his misfortune and his death.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 260,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not break off ties with a friend, even if he is ungrateful.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 261,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not trust in a friend before testing him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 262,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not count one who does not support [you] with his wealth as a friend.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Wealth & Poverty",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 263,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Do not rely on your friend until you have tested him, and be extremely cautious of your enemy.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 264,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who keeps good ties [and company] with his brothers makes their bond [with him] last longer.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 265,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who points out your faults to you and defends you in your absence, then he is your true friend, so protect him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 266,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who has no friend has no provision.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 267,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who calls you towards the Eternal Abode and assists you to work for it, then he is indeed a caring friend.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 268,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One of the bad choices [that a person can make] is accompanying the wicked.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 269,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "Nothing establishes the boundaries of respect like companionship and neighbourhood.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 270,
+    "topic": "The soul and holding it to account-",
+    "text": "Control the passion of your soul, the intensity of your rage, the power of your hand and the sharpness of your tongue, and guard against all these by delaying the initiation of any action and refraining from using force until your rage subsides and you recover your senses.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Anger & Forgiveness",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 271,
+    "topic": "The soul and holding it to account-",
+    "text": "Take control over your vain desires and the distress of your soul, for indeed the distress of the soul lies in acting equitably in [both] the things which it loves and [in those which it] hates.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Justice & Oppression"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 272,
+    "topic": "The soul and holding it to account-",
+    "text": "The one who keeps his soul steadfast against the temptations of worldly pleasures is a master [over it] and the one who neglects it is destroyed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 273,
+    "topic": "The soul and holding it to account-",
+    "text": "Self-restraint during times of anger saves one from situations that lead to harm.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Anger & Forgiveness",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 274,
+    "topic": "The soul and holding it to account-",
+    "text": "Self-restraint during desire and fear is from the most excellent etiquette.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 275,
+    "topic": "The soul and holding it to account-",
+    "text": "Every person who relies on himself [instead of Allah] is thrown [into destruction].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Divine Decree & Trust in Allah",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 276,
+    "topic": "The soul and holding it to account-",
+    "text": "Whoever is deceived by his soul is delivered by it to places of destruction.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 277,
+    "topic": "This World",
+    "text": "He who claims [to have] certitude in the eternal while he is still attached to the transient, has lied.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Sincerity & Hypocrisy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 278,
+    "topic": "This World",
+    "text": "For every abundance [in this world] there is paucity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 279,
+    "topic": "This World",
+    "text": "For everything in this world there is expiry and annihilation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 280,
+    "topic": "This World",
+    "text": "For the one who finds delight in the pleasures of this world there is distress [and regret in the Hereafter].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 281,
+    "topic": "This World",
+    "text": "Indeed, this world has unveiled the cloak [of its disloyalty] and notified you all equally.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 282,
+    "topic": "This World",
+    "text": "Verily this world of yours is more lowly in my view than the [dry] bone of a pig in the hand of a leper.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 283,
+    "topic": "This World",
+    "text": "It is not a [good] trade to consider this world to be a price for your soul and a substitute to that which is for you with Allah.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 284,
+    "topic": "This World",
+    "text": "For love of this world, listeners turn a deaf ear to [words of] wisdom and hearts become blind to the light of insight.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 285,
+    "topic": "This World",
+    "text": "Nobody gains any joy from this world but that it is followed by tears [of sorrow].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Grief & Loss",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 286,
+    "topic": "This World",
+    "text": "Allah, the Glorified, has not cleansed this world for His friends nor has He withheld it from His enemies.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Divine Decree & Trust in Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 287,
+    "topic": "This World",
+    "text": "Nobody gets the comforts of this world internally but that he has to face its hardships externally.7",
+    "flag_status": "flagged",
+    "flag_note": "contains a stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 288,
+    "topic": "This World",
+    "text": "One whose effort was for this world did not earn any recompense [for it] nor did he fulfil any obligation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 289,
+    "topic": "This World",
+    "text": "No person in this world is covered by the light rain of ease but that the heavy rain of distress pours upon him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Patience & Endurance",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 290,
+    "topic": "This World",
+    "text": "If the people of the world understood [the truth about it], this world would surely be ruined.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 291,
+    "topic": "This World",
+    "text": "If this world was praiseworthy in front of Allah, He would have reserved it for His friends, but He turned their hearts away from it and expunged its desires from them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 292,
+    "topic": "This World",
+    "text": "If this world was to remain with one of you, it would not have reached the one in whose hands it is [now].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 293,
+    "topic": "This World",
+    "text": "One who strives for this world is eluded by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 294,
+    "topic": "This World",
+    "text": "One who holds back from this world is sought by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 295,
+    "topic": "This World",
+    "text": "One who wrestles this world is knocked down by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 296,
+    "topic": "This World",
+    "text": "One who disobeys this world is obeyed by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 297,
+    "topic": "This World",
+    "text": "One who turns away from this world is approached by it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 298,
+    "topic": "This World",
+    "text": "One who knows [the reality of] this world, renounces it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 299,
+    "topic": "This World",
+    "text": "One who thinks little of this world, it comes to him humiliated.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 300,
+    "topic": "This World",
+    "text": "One who is owned by this world falls down often.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 301,
+    "topic": "This World",
+    "text": "One who is delighted by the embellishments of this world is owned by [its] deceptions.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 302,
+    "topic": "This World",
+    "text": "One who buys his Hereafter with his world, gains both of them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 303,
+    "topic": "This World",
+    "text": "One who sells his Hereafter for his world loses both of them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 304,
+    "topic": "This World",
+    "text": "One who seeks less of this world gains more of that which keeps him secure [in the Hereafter].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 305,
+    "topic": "This World",
+    "text": "One who seeks more of this world gains more of that which will ruin him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 306,
+    "topic": "This World",
+    "text": "One who builds his world destroys his place of return [in the Hereafter].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 307,
+    "topic": "This World",
+    "text": "One who is deceived by this world is deceived by [his] aspirations.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 308,
+    "topic": "This World",
+    "text": "One who is pleased with this world is eluded by the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 309,
+    "topic": "This World",
+    "text": "One who is greedy for this world is destroyed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 310,
+    "topic": "This World",
+    "text": "One who is not content with the little [he has] of this world will not be satisfied with the much that he accumulates from it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 311,
+    "topic": "This World",
+    "text": "Who is more at a disadvantage than the one who sells the eternal [Hereafter] for the transient [world]?",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 312,
+    "topic": "This World",
+    "text": "Who is more at a loss than the one who exchanges the Hereafter for this world?",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 313,
+    "topic": "This World",
+    "text": "One who seeks from this world that which pleases him, his crime (and sinfulness) increases and his transgression prolongs.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Repentance & Sin",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 314,
+    "topic": "This World",
+    "text": "One who relies on the deceptions of this world considers himself safe from its perils.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 315,
+    "topic": "This World",
+    "text": "Whoever keeps back from seeking this world, it rises towards him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Divine Decree & Trust in Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 316,
+    "topic": "This World",
+    "text": "One who exceeds the limits in seeking this world dies a pauper.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 317,
+    "topic": "This World",
+    "text": "Whoever turns away from this world, it comes to him belittled.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 318,
+    "topic": "This World",
+    "text": "One whose heart is attached to the love of this world catches three things from it: worry that never leaves him, greed that never abandons him and hopes that are never realized by him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Fear & Anxiety",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 319,
+    "topic": "This World",
+    "text": "Whoever is attracted by the dazzle of this world, it blinds both his eyes.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 320,
+    "topic": "This World",
+    "text": "One who desires the adornments of this world is eluded by the sought after eternal bliss [of the Hereafter].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 321,
+    "topic": "This World",
+    "text": "One who has been overcome by this world is blind to that which is in front of him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 322,
+    "topic": "This World",
+    "text": "One who builds his world corrupts his religion and ruins his Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 323,
+    "topic": "This World",
+    "text": "One who loves [to acquire] the prestige of [both] this world and the Hereafter must detest prestige in this world.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Humility & Arrogance",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 324,
+    "topic": "This World",
+    "text": "One who humbles himself for the children of this world takes off the garment of piety.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Humility & Arrogance",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 325,
+    "topic": "This World",
+    "text": "One who fixes his gaze on the children of this world is blinded from the path of guidance.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 326,
+    "topic": "This World",
+    "text": "One who seeks something from this world is eluded by something greater from the Hereafter than what he seeks [from this world].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 327,
+    "topic": "This World",
+    "text": "Whoever seeks [the profits of] this world through the work of the Hereafter, it takes him further away from that which he seeks.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 328,
+    "topic": "This World",
+    "text": "One who is glad to relinquish the bounties of this world [for the sake of the Hereafter] has certainly perfected his intellect.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 329,
+    "topic": "This World",
+    "text": "Whoever gains possession of something of this world loses much more of the Hereafter than what he possesses [of this world].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 330,
+    "topic": "This World",
+    "text": "One who knows [the reality of] this world is not saddened by that which befalls him [in it].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 331,
+    "topic": "This World",
+    "text": "One who recognizes the deceptions of this world will not be deceived by its impossible dreams.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 332,
+    "topic": "This World",
+    "text": "One who triumphs in this world becomes troubled and one whom it eludes gets distressed.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Fear & Anxiety"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 333,
+    "topic": "This World",
+    "text": "One in whose eyes this world is grand and in whose heart its position is great, prefers it over Allah and devotes himself to it and becomes a slave to it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 334,
+    "topic": "This World",
+    "text": "One who becomes infatuated with this world, it fills his heart with a sadness which keeps alternating in the black part of his heart, a distress that worries him and a grief that causes him pain, until its suffocation [of death] overtakes him and he is flung in the open while both the arteries of his heart are severed. It is easy for Allah to cause him to die and he becomes too far for his comrades to meet him (or to remain with him).",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Fear & Anxiety",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 335,
+    "topic": "This World",
+    "text": "One who relies on this world is indeed wretched and deprived.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Divine Decree & Trust in Allah",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 336,
+    "topic": "This World",
+    "text": "Whoever serves this world, it exploits him and whoever serves Allah, the Glorified, it (this world) serves him.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Divine Decree & Trust in Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 337,
+    "topic": "This World",
+    "text": "One whose concern [and effort] is for this world, his wretchedness and misery will be prolonged on the Day of Resurrection.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 338,
+    "topic": "This World",
+    "text": "One who does not think about the bounties of his world becomes powerful.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 339,
+    "topic": "This World",
+    "text": "One of the troubles of this world is the spoiling of union by separation and happiness by distress.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Grief & Loss"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 340,
+    "topic": "This World",
+    "text": "It is from the lowliness of this world in front Allah is that He is not disobeyed anywhere except in it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Repentance & Sin",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 341,
+    "topic": "This World",
+    "text": "From the [signs of the] contemptibleness of this world in the sight of Allah is that one does not gain that which is with Him except by abandoning it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 342,
+    "topic": "This World",
+    "text": "Nothing corrupts the faith like this world.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 343,
+    "topic": "This World",
+    "text": "How will the offshoot remain after the root has gone?",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 344,
+    "topic": "This World",
+    "text": "This world of yours which endears itself to you is not better than the Hereafter which is made to appear ugly by your negative perception [of it].",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Hope & Despair"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 345,
+    "topic": "This World",
+    "text": "That which you send forth from this world is for your own benefit and that which you leave behind from it is for your enemy.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 346,
+    "topic": "This World",
+    "text": "That which [one] increases in this world, [he] diminishes in the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 347,
+    "topic": "This World",
+    "text": "That which [one] diminishes in this world, [he] increases in the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 348,
+    "topic": "This World",
+    "text": "Do not be overjoyed by that which you obtain in this world and do not despair with sadness for that which eludes you from it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Hope & Despair"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 349,
+    "topic": "This World",
+    "text": "What is good in a house that falls down like demolished construction and in a lifetime that expires as [its] provisions get exhausted?",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 350,
+    "topic": "This World",
+    "text": "What is the matter with you? You are delighted with the little of this world that you obtain while you are not saddened by the abundance of the Hereafter that you are deprived of?!",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 351,
+    "topic": "This World",
+    "text": "This world has not deceived you, rather through it you have been deceived.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 352,
+    "topic": "This World",
+    "text": "The transient world has not beguiled you, rather through it you have been beguiled.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 353,
+    "topic": "This World",
+    "text": "What is [the matter] with you that which, if you acquire it [the wealth of this world], its improvement [and seeking something better than it] preoccupies you from enjoying it, and if you enjoy it, it spoils it [the enjoyment] for you with the victory of death over you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 354,
+    "topic": "This World",
+    "text": "The deceived person who gains success in this world through its smallest portion is not like the other person who is gains success in the Hereafter by exerting his greatest effort.8",
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (number 8) at the end of the sentence.",
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 355,
+    "topic": "This World",
+    "text": "How close this world is to departure, old age is to youth, and doubt is to uncertainty!",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Time & Opportunity",
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 356,
+    "topic": "This World",
+    "text": "The bitterness of this world is the sweetness of the Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 357,
+    "topic": "This World",
+    "text": "One who accompanies this world is a target of calamities and mishaps.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 358,
+    "topic": "This World",
+    "text": "The similitude of this world is like your shadow, if you stop it stops and if you seek it, it moves further away.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 359,
+    "topic": "This World",
+    "text": "The similitude of this world is like the snake, its feel is soft but it has deadly venom in its fangs. The inexperienced and ignorant one reaches towards it while the wise and intelligent one is cautious of it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 360,
+    "topic": "This World",
+    "text": "The wares of this world are [like] broken orts that cause epidemics, therefore keep off the grazing land which is more beneficial to migrate from than to peacefully stay in, and that of it which suffices for subsistence in it is purer [for the soul] than its riches.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 361,
+    "topic": "This World",
+    "text": "Destroyed is one who finds reassurance in this world and makes his religion its dower, so he turns towards it wherever it turns, having taken it to be his [only] concern and his deity.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 362,
+    "topic": "This World",
+    "text": "Take it easy, for indeed the matter is near, the companionship is short and the sojourn is brief.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Time & Opportunity",
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 363,
+    "topic": "This World",
+    "text": "It (this world) is obstructive and obdurate, deviating and swaying, deceiving and ungrateful.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 364,
+    "topic": "This World",
+    "text": "Those who are pleased with this world are destroyed on the Day of Resurrection and those who are disheartened by it are saved.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 365,
+    "topic": "This World",
+    "text": "Do not desire anything that perishes and goes away, for this enough of a detriment.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 366,
+    "topic": "This World",
+    "text": "Do not desire this world thereby losing your Hereafter.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 367,
+    "topic": "This World",
+    "text": "Do not desire that which perishes, and take from the transient for the eternal.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 368,
+    "topic": "This World",
+    "text": "Do not jostle for the bounties of this world, for indeed its bounties are trifling.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 369,
+    "topic": "This World",
+    "text": "Do not give your religion as dower for this world, for indeed whoever gives his religion as dowry to this world, it brings to him wretchedness, pain, hardship and tribulation.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 370,
+    "topic": "This World",
+    "text": "Do not sell the Hereafter for this world and do not exchange the eternal with the transient.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 371,
+    "topic": "This World",
+    "text": "Do not let this world tempt you, and do not let your vain desires overpower you, and do not consider your stay in this world to be long, and do not let your hopes deceive you, for indeed hopes are not part of religion in any way.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 372,
+    "topic": "This World",
+    "text": "Let not the greatest thing that you achieve in this world be the attainment of pleasures and the quelling of rage, rather let it be the enlivening of truth and the annihilation of falsehood.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 373,
+    "topic": "This World",
+    "text": "Do not be tempted by good loans [and temporary pleasures], for the loans of this world are returned and you remain with that which you have accumulated of the forbidden.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Repentance & Sin",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 374,
+    "topic": "This World",
+    "text": "Do not let the transient world deceive you with its false amusements, for indeed its amusement ceases while the vices which you have acquired remain with you.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Repentance & Sin",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 375,
+    "topic": "This World",
+    "text": "Let not any of you pine the way a servant girl pines, for that which has departed from him of this world.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Grief & Loss",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 376,
+    "topic": "This World",
+    "text": "Do not solicit this world by the work of the Hereafter and do not prefer the transient over the eternal, for this is the trait of the hypocrites and the character of the apostates.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 377,
+    "topic": "This World",
+    "text": "Never be deceived by the condition of the people of vanities [and what they enjoy of this world], for indeed it is an extended shadow [which lasts] until a fixed time.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 378,
+    "topic": "This World",
+    "text": "The deceptions of this world do not excite the learned.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 379,
+    "topic": "This World",
+    "text": "This world does not protect the one who seeks refuge in it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Divine Decree & Trust in Allah",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 380,
+    "topic": "This World",
+    "text": "People do not abandon anything from their religion for the sake of this world but that Allah opens for them that which is more harmful for them.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 381,
+    "topic": "This World",
+    "text": "The delights of this world do not continue and its joys do not last, and there is no security from its afflictions.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 382,
+    "topic": "This World",
+    "text": "It behoves the one who recognizes this world to renounce its pleasures and to turn away from it.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 383,
+    "topic": "This World",
+    "text": "It behoves the one who recognizes the transient abode to work for the Eternal Abode.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 384,
+    "topic": "This World",
+    "text": "It behoves the one who knows how fleeting this world is, to renounce its pleasures.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 385,
+    "topic": "This World",
+    "text": "It behoves a person to seek a cure from the ailments of this world just like a sick person seeks treatment, and he should avoid its lusts and pleasures just as a sick person avoids certain foods.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Health, the Body & Sickness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 386,
+    "topic": "This World",
+    "text": "Little of this world corrupts the faith.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 387,
+    "topic": "This World",
+    "text": "Little of this world suffices and plenty of it destroys.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 388,
+    "topic": "This World",
+    "text": "Little of this world is better than plenty of it, and that of it which suffices for subsistence in it is better than that which destroys.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 389,
+    "topic": "This World",
+    "text": "Slaves of desire, cut them short! For indeed, the one who leans on this world gets nothing out of it but the grating sound of hardship.",
+    "flag_status": "ok",
+    "flag_note": null,
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Greed & Ambition"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 390,
+    "topic": "This World",
+    "text": "One who works for this world makes a loss. afflictions. (‘a) (Ref: Sharhe Ghurar al-Ḥikam vol. 2 pg. 656). greatest effort is not like the other who is successful in the Hereafter by gaining its smallest portion. (Saying no. 380)",
+    "flag_status": "flagged",
+    "flag_note": "The text contains garbled fragments, stray citation markers, and nonsensical sentence structure.",
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Greed & Ambition"
+    ]
+  }
+]
