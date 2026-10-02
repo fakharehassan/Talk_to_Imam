@@ -1,0 +1,71 @@
+[
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 3,
+    "topic": "The Son of Adam (The Human Being)",
+    "text": "Woe to the son of Adam! A prisoner of hunger, prone to overeating, a target of calamities and a successor of the dead. Grandeur .",
+    "chunk_id": 9,
+    "flag_status": "flagged",
+    "flag_note": "The text ends abruptly with a stray word 'Grandeur .' that does not form a complete sentence.",
+    "life_situation_tags": [
+      "Death & Mortality",
+      "Greed & Ambition"
+    ],
+    "detected_leaked_topic": "grandeur"
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 39,
+    "topic": "Religion and Sharia Law",
+    "text": "The excellence of [one’s adherence to] religion stems from the strength of [one’s] certitude.",
+    "chunk_id": 3576,
+    "flag_status": "flagged",
+    "flag_note": "contains bracketed editorial insertions",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ],
+    "detected_leaked_topic": "certitude"
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Being Pleased and Satisfied",
+    "text": "Satisfaction [with the decree of Allah] is the fruit of certitude.",
+    "chunk_id": 3992,
+    "flag_status": "flagged",
+    "flag_note": "contains bracketed editorial additions",
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Faith, Worship & Devotion to Allah"
+    ],
+    "detected_leaked_topic": "certitude"
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Eagerness and Longing-",
+    "text": "Longing [for Allah and the Hereafter] is from the qualities of those who have certitude.",
+    "chunk_id": 4996,
+    "flag_status": "flagged",
+    "flag_note": "contains bracketed editorial insertions",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ],
+    "detected_leaked_topic": "certitude"
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 8,
+    "topic": "The disbeliever-",
+    "text": "The concern of the disbeliever is for his [life in this] world, his efforts are for the transient [pleasures] and his goal is [fulfilling] his lust.",
+    "chunk_id": 8839,
+    "flag_status": "flagged",
+    "flag_note": "Contains bracketed editorial insertions",
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Self-Discipline & the Soul"
+    ],
+    "detected_leaked_topic": "lust"
+  }
+]

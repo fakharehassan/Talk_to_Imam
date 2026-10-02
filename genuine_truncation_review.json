@@ -1,0 +1,104 @@
+[
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 96,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who accompanies the wicked is like one who travels by sea, if he is saved from",
+    "chunk_id": 283,
+    "flag_status": "flagged",
+    "flag_note": "The text is truncated mid-sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 15,
+    "topic": "War, Soldiers and Armies",
+    "text": "Do not let the fleeing which is followed by return and the retreat that is followed by attack bear down",
+    "chunk_id": 1602,
+    "flag_status": "flagged",
+    "flag_note": "The sentence is truncated and lacks a complete predicate.",
+    "life_situation_tags": [
+      "War & Struggle (Jihad)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 23,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "I put the chests of the Arab [warriors] on the ground and broke the backs (or the protruding horns) of the tribes of Rabī‘ah and Mu",
+    "chunk_id": 2469,
+    "flag_status": "flagged",
+    "flag_note": "The text is truncated mid-word and appears to be split across two items.",
+    "life_situation_tags": [
+      "War & Struggle (Jihad)",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 79,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "People! There is no proof of Allah, the Glorified, on His earth greater than our Prophet, Muhammad (s), nor is there any wisdom more manifest than His book, the Glorious Qur’an and Allah, the Exalted, has not praised anyone from among you except he who holds fast to his rope and follows His prophet; and only he perishes, who perishes when he disobeys Him, goes against His commands and follows his vain desires. This is why the Almighty says ‘... let those who disobey His order beware lest an ordeal should afflict them or a painful chastisement befall them.’7",
+    "chunk_id": 2525,
+    "flag_status": "flagged",
+    "flag_note": "The text contains a stray citation number '7' at the end of the quotation.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Divulgence [of Secrets]",
+    "text": "Divulgence [of secrets] is [and act of] disloyalty",
+    "chunk_id": 3795,
+    "flag_status": "flagged",
+    "flag_note": "Contains a typo/stray character: '[and act of]'.",
+    "life_situation_tags": [
+      "Backbiting, Gossip & Secrecy",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "The Felicitous-",
+    "text": "Indeed only he is felicitous who fears divine punishment so he safeguards himself, and hopes for divine reward so he does good, and longs for Paradise so he wakes up [to worship] in the night. -Striving and Seeking",
+    "chunk_id": 4426,
+    "flag_status": "flagged",
+    "flag_note": "Contains extraneous text ('-Striving and Seeking') appended to the end of the quotation.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 38,
+    "topic": "The unjust-",
+    "text": "The unjust transgressor is awaiting one of two chastisements [of this world or the Hereafter]. Apostle’s way!’",
+    "chunk_id": 5857,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray, nonsensical fragment at the end of the sentence.",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 12,
+    "topic": "Giving and withholding charity-",
+    "text": "Verily you are more in need of giving charity from what you have earned than acquiring what you accumulate. little charity that he gives. For the entire explanation refer to the commentary of Nahj al-Balāgha, Hikma no. 232",
+    "chunk_id": 10187,
+    "flag_status": "flagged",
+    "flag_note": "Contains extraneous commentary and citation text appended to the quotation.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  }
+]

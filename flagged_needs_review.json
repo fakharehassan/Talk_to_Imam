@@ -1,0 +1,1261 @@
+[
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 14,
+    "topic": "Self-Sacrifice",
+    "text": "It is through self-sacrifice that the free become enslaved.1",
+    "chunk_id": 23,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 96,
+    "topic": "The Brother, The Friend, The Associate and The Companion",
+    "text": "One who accompanies the wicked is like one who travels by sea, if he is saved from",
+    "chunk_id": 283,
+    "flag_status": "flagged",
+    "flag_note": "The text is truncated mid-sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 29,
+    "topic": "The Believer",
+    "text": "Believers are indeed compassionate.1",
+    "chunk_id": 879,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (digit) at the end of the sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Eloquence",
+    "text": "Eloquence is that which is easy on speech and light on reasoning.1",
+    "chunk_id": 1177,
+    "flag_status": "flagged",
+    "flag_note": "contains stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 15,
+    "topic": "Requital and Reward",
+    "text": "One who punishes [a person] for [having committed] an offence has no merit.1",
+    "chunk_id": 1284,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Moderation",
+    "text": "Not everyone who is moderate in seeking [his livelihood] is deprived.1",
+    "chunk_id": 1304,
+    "flag_status": "flagged",
+    "flag_note": "contains stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Work, Trade & Earnings",
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 45,
+    "topic": "The Ignorant and the Foolish",
+    "text": "Every ignorant person is prone to temptation.1",
+    "chunk_id": 1532,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 15,
+    "topic": "War, Soldiers and Armies",
+    "text": "Do not let the fleeing which is followed by return and the retreat that is followed by attack bear down",
+    "chunk_id": 1602,
+    "flag_status": "flagged",
+    "flag_note": "The sentence is truncated and lacks a complete predicate.",
+    "life_situation_tags": [
+      "War & Struggle (Jihad)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Vocation",
+    "text": "The vocation [one undertakes] is based on the extent of deprivation.1",
+    "chunk_id": 1700,
+    "flag_status": "flagged",
+    "flag_note": "The text contains bracketed editorial insertions and a trailing digit, suggesting an extraction error.",
+    "life_situation_tags": [
+      "Work, Trade & Earnings",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 29,
+    "topic": "Jealousy",
+    "text": "Jealousy towards a friend for the blessing [he has been endowed with] stems from low self- esteem.1",
+    "chunk_id": 1800,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray citation character at the end of the sentence.",
+    "life_situation_tags": [
+      "Envy & Jealousy",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 71,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "People are the followers of what they deem to be good.1",
+    "chunk_id": 1908,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 266,
+    "topic": "Good Turns and Benevolent Actions",
+    "text": "One who is not good at seeking sympathy is faced with scorn.2",
+    "chunk_id": 2103,
+    "flag_status": "flagged",
+    "flag_note": "contains stray characters at the end of the sentence",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 11,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "Verily, the beggar is a messenger of Allah, so one who gives to him gives to Allah and one who withholds from him, withholds from Allah, the Glorified.1",
+    "chunk_id": 2457,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the text.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 23,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "I put the chests of the Arab [warriors] on the ground and broke the backs (or the protruding horns) of the tribes of Rabī‘ah and Mu",
+    "chunk_id": 2469,
+    "flag_status": "flagged",
+    "flag_note": "The text is truncated mid-word and appears to be split across two items.",
+    "life_situation_tags": [
+      "War & Struggle (Jihad)",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 24,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "ar.",
+    "chunk_id": 2470,
+    "flag_status": "flagged",
+    "flag_note": "The text is a nonsensical fragment resulting from a split in the previous item.",
+    "life_situation_tags": [
+      "War & Struggle (Jihad)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 53,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "The riser has risen, the dazzler has dazzled, the apparent has appeared and the crooked has been straightened.4",
+    "chunk_id": 2499,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the text.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 60,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "If the veils were removed, my certitude would not increase.5",
+    "chunk_id": 2506,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character/number at the end of the sentence.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 79,
+    "topic": "Muhammad (s) and his Progeny",
+    "text": "People! There is no proof of Allah, the Glorified, on His earth greater than our Prophet, Muhammad (s), nor is there any wisdom more manifest than His book, the Glorious Qur’an and Allah, the Exalted, has not praised anyone from among you except he who holds fast to his rope and follows His prophet; and only he perishes, who perishes when he disobeys Him, goes against His commands and follows his vain desires. This is why the Almighty says ‘... let those who disobey His order beware lest an ordeal should afflict them or a painful chastisement befall them.’7",
+    "chunk_id": 2525,
+    "flag_status": "flagged",
+    "flag_note": "The text contains a stray citation number '7' at the end of the quotation.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 13,
+    "topic": "The Fool",
+    "text": "For the fool there is an oath with every statement.1",
+    "chunk_id": 2583,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numerical character at the end of the sentence",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 9,
+    "topic": "Modesty and Shame",
+    "text": "Shame prevents livelihood.1",
+    "chunk_id": 2644,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray character/footnote marker at the end of the text.",
+    "life_situation_tags": [
+      "Work, Trade & Earnings"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "The Caliphs [Uthman and..]        )       ...)",
+    "text": "With Allah, the Glorified, lies the clear verdict between the appropriator [Uthmān] and the protestor [who was responsible for his assassination].1",
+    "chunk_id": 2766,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray citation character/number at the end of the text.",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Disagreement",
+    "text": "From disagreement stems repulsion [and hatred].1",
+    "chunk_id": 2771,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray citation character/number at the end of the text.",
+    "life_situation_tags": [
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 3,
+    "topic": "Fear",
+    "text": "Fear [Allah] and you will be feared by the people.1",
+    "chunk_id": 2893,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (digit 1) at the end of the sentence.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 2,
+    "topic": "The Treacherous",
+    "text": "The enticer [towards deviance] and the treacherous one are alike.1",
+    "chunk_id": 3033,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 24,
+    "topic": "Supplication and the Supplicant",
+    "text": "Allah, spare our lives and their lives, restore the ties between us and them, rescue them [and guide them] from their misguidance, until those who are ignorant of the truth may recognize it and those are persistent in sinning and disloyalty [and in their enmity towards us] may desist from it.1",
+    "chunk_id": 3113,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the text",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 50,
+    "topic": "This World",
+    "text": "Verily the interior of this world is dead and its exterior is sick.2",
+    "chunk_id": 3171,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character/footnote marker '2' at the end of the sentence.",
+    "life_situation_tags": [
+      "Health, the Body & Sickness",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 95,
+    "topic": "This World",
+    "text": "Verily this world has people who possess preserved treasures that are disparaged and cast away by you. The religion is opened up by them just as one of you would open the lid of his cooking pot. They stick together like [a swarm of] locusts and destroy the tyrants of the lands.3",
+    "chunk_id": 3216,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character (3) at the end of the text.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Justice & Oppression"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 102,
+    "topic": "This World",
+    "text": "This world betrays.4",
+    "chunk_id": 3223,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray digit/character at the end of the sentence.",
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 156,
+    "topic": "This World",
+    "text": "Indeed, if you approach this world you have turned your back [from the Hereafter].5",
+    "chunk_id": 3277,
+    "flag_status": "flagged",
+    "flag_note": "contains stray numeric character at the end of the text",
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 157,
+    "topic": "This World",
+    "text": "Indeed, when you turn your back on this world, you have approached [the Hereafter].6",
+    "chunk_id": 3278,
+    "flag_status": "flagged",
+    "flag_note": "contains stray numeric character at the end of the text",
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 287,
+    "topic": "This World",
+    "text": "Nobody gets the comforts of this world internally but that he has to face its hardships externally.7",
+    "chunk_id": 3408,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 354,
+    "topic": "This World",
+    "text": "The deceived person who gains success in this world through its smallest portion is not like the other person who is gains success in the Hereafter by exerting his greatest effort.8",
+    "chunk_id": 3475,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (digit 8) at the end of the sentence.",
+    "life_situation_tags": [
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 12,
+    "topic": "Remedy and Ailment",
+    "text": "Walk with your ailment as long as you can.1",
+    "chunk_id": 3523,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Health, the Body & Sickness",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Remembrance [of Allah] and the Reminder",
+    "text": "A beautiful remembrance is one of the two lives.1",
+    "chunk_id": 3645,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray footnote character (1) at the end of the sentence.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Divulgence [of Secrets]",
+    "text": "Divulgence [of secrets] is [and act of] disloyalty",
+    "chunk_id": 3795,
+    "flag_status": "flagged",
+    "flag_note": "Contains a typo/stray character: '[and act of]'.",
+    "life_situation_tags": [
+      "Backbiting, Gossip & Secrecy",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 21,
+    "topic": "Sustenance and One Who Seeks It",
+    "text": "Sustenance is not acquired by toiling [for it].1",
+    "chunk_id": 3956,
+    "flag_status": "flagged",
+    "flag_note": "contains stray characters (a footnote number) at the end of the sentence",
+    "life_situation_tags": [
+      "Work, Trade & Earnings",
+      "Divine Decree & Trust in Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Desire And Longing",
+    "text": "One who desires that you remain alive has clutched on to your cord.1",
+    "chunk_id": 4045,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 14,
+    "topic": "Leniency And Gentleness",
+    "text": "Gentleness is the brother of a believer.1",
+    "chunk_id": 4063,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 67,
+    "topic": "Generosity",
+    "text": "There can be no generosity with nothingness.1",
+    "chunk_id": 4327,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "The Felicitous-",
+    "text": "Indeed only he is felicitous who fears divine punishment so he safeguards himself, and hopes for divine reward so he does good, and longs for Paradise so he wakes up [to worship] in the night. -Striving and Seeking",
+    "chunk_id": 4426,
+    "flag_status": "flagged",
+    "flag_note": "Contains extraneous text ('-Striving and Seeking') appended to the end of the quotation.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Maladies-",
+    "text": "It is from the [good] health of the bodies that maladies originate.1",
+    "chunk_id": 4454,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Health, the Body & Sickness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Honor and the honorable-",
+    "text": "Honor is attained by earnest endeavors not by worn-out bones [of one’s ancestors].1",
+    "chunk_id": 4709,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray footnote reference character at the end of the text.",
+    "life_situation_tags": [
+      "Work, Trade & Earnings",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 3,
+    "topic": "The Wretched-",
+    "text": "The most wretched of [all] people is one who sells his religion for someone else’s worldly gain.1",
+    "chunk_id": 4792,
+    "flag_status": "flagged",
+    "flag_note": "contains stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 29,
+    "topic": "Gratitude and the grateful-",
+    "text": "Showing [one’s] affluence is from [the ways of showing] gratitude.1",
+    "chunk_id": 4822,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 29,
+    "topic": "Patience and the patient-",
+    "text": "Verily patience is a virtue except if it is [when others are patient] concerning you, and apprehension is bad except if it is over you; verily the affliction [we suffer] by your loss is great whereas [the hardships] before you and after you are insignificant [in comparison].1",
+    "chunk_id": 5111,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray citation number at the end of the text.",
+    "life_situation_tags": [
+      "Patience & Endurance",
+      "Grief & Loss"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 63,
+    "topic": "Truthfulness-",
+    "text": "Do not tell the truth to one who responds to your truth by denying [and belying] it.1",
+    "chunk_id": 5326,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (a footnote number) at the end of the text.",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Necessities-",
+    "text": "The necessities of [dire] conditions lower the necks of men.1",
+    "chunk_id": 5500,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray character/footnote marker at the end of the sentence.",
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 81,
+    "topic": "Obedience and compliance-",
+    "text": "There is no obedience to the creation in disobedience to the Creator.1",
+    "chunk_id": 5623,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 4,
+    "topic": "Haughtiness-",
+    "text": "Do not be haughty with the one whom you have not enslaved.1",
+    "chunk_id": 5723,
+    "flag_status": "flagged",
+    "flag_note": "contains stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "Injustice and Oppression-",
+    "text": "Keep away from oppression, for verily it hastens one’s downfall and causes tears [of regret and sorrow] to flow from the one who acts upon it.1",
+    "chunk_id": 5739,
+    "flag_status": "flagged",
+    "flag_note": "contains stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Grief & Loss"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 8,
+    "topic": "The unjust-",
+    "text": "For the unjust there is a biting of his hand.1",
+    "chunk_id": 5827,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Justice & Oppression"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 38,
+    "topic": "The unjust-",
+    "text": "The unjust transgressor is awaiting one of two chastisements [of this world or the Hereafter]. Apostle’s way!’",
+    "chunk_id": 5857,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray, nonsensical fragment at the end of the sentence.",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "The Afterlife (Paradise, Hellfire, Resurrection)"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 36,
+    "topic": "Justice and the just-",
+    "text": "It is not from justice to judge a reliable person by conjecture [instead of accepting his testimony].1",
+    "chunk_id": 6168,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray footnote reference character at the end of the text.",
+    "life_situation_tags": [
+      "Justice & Oppression",
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 23,
+    "topic": "Enmity and the Enemy-",
+    "text": "Do not be adversaries of the blessings of Allah upon you.1",
+    "chunk_id": 6227,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Contentment & Gratitude"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Apologizing and offering excuses-",
+    "text": "Being needless of offering an excuse is more honourable than truthfulness [in your excuse].1",
+    "chunk_id": 6257,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the text",
+    "life_situation_tags": [
+      "Truthfulness, Lying & Deception"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 13,
+    "topic": "Apologizing and offering excuses-",
+    "text": "Seeking pardon (or taking lesson) is a sincere warner.2",
+    "chunk_id": 6269,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Repentance & Sin"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 25,
+    "topic": "Cognizance-",
+    "text": "One who knows Allah believes in his oneness.2",
+    "chunk_id": 6311,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (footnote marker).",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 9,
+    "topic": "Glory and the Honored One-",
+    "text": "He whose neighbours are abased is not honoured.1",
+    "chunk_id": 6326,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Resolve-",
+    "text": "There is no good in [making a] resolution without determination.1",
+    "chunk_id": 6347,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 28,
+    "topic": "Social Interaction and mingling-",
+    "text": "Man is the son of his time.1",
+    "chunk_id": 6378,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 26,
+    "topic": "Forgiveness and pardon-",
+    "text": "Adopt [the policy of] excusing the people and do not extend your hand to that which is disagreeable to anyone of them.1",
+    "chunk_id": 6484,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray numeric character at the end of the sentence",
+    "life_situation_tags": [
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 67,
+    "topic": "Forgiveness and pardon-",
+    "text": "Pardon that which you are unaware of for what you are aware of, and what you are ignorant of for what you know.2",
+    "chunk_id": 6525,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray digit '2' at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 30,
+    "topic": "Knowledge-",
+    "text": "Draw water from the clear spring which has been cleansed of all impurity.1",
+    "chunk_id": 6882,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numerical character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 41,
+    "topic": "Knowledge-",
+    "text": "The most necessary knowledge for you is that which guides you to rectitude of your religion and separates you from its corruption.2",
+    "chunk_id": 6893,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numerical character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 118,
+    "topic": "Knowledge-",
+    "text": "The cause of fear [of Allah] is knowledge.3",
+    "chunk_id": 6970,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (digit) at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "The Scholar-",
+    "text": "The scholar and the student are partners in reward; there no good in anything between this.1",
+    "chunk_id": 7059,
+    "flag_status": "flagged",
+    "flag_note": "The text contains a trailing character/typo '1' at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "Habit-",
+    "text": "Superfluity [in speech] is one of the worst habits.1",
+    "chunk_id": 7392,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 18,
+    "topic": "Lowering the gaze-",
+    "text": "The day has dawned for those with two eyes.1",
+    "chunk_id": 7578,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 36,
+    "topic": "Anger-",
+    "text": "One who gets angry frequently makes others weary [of him].1",
+    "chunk_id": 7671,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Anger & Forgiveness",
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "Negligence-",
+    "text": "Negligence is joy.1",
+    "chunk_id": 7704,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character/number at the end of the sentence.",
+    "life_situation_tags": [
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 2,
+    "topic": "Deviation from the right path-",
+    "text": "Deviation is insolence.1",
+    "chunk_id": 7838,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Relief and waiting for relief-",
+    "text": "The first act of worship is waiting for relief with patience.1",
+    "chunk_id": 7888,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Patience & Endurance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 37,
+    "topic": "Opportunity and its loss-",
+    "text": "At times an opportunity may arise.1",
+    "chunk_id": 7931,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Time & Opportunity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 5,
+    "topic": "Poverty-",
+    "text": "The grave is better than poverty.1",
+    "chunk_id": 8010,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray character/footnote marker at the end of the sentence.",
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 6,
+    "topic": "Poverty-",
+    "text": "Poverty with debt is [like] a red death.2",
+    "chunk_id": 8011,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray character/footnote marker at the end of the sentence.",
+    "life_situation_tags": [
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 7,
+    "topic": "Contentment and the contented-",
+    "text": "Contentment is the helper of poverty.1",
+    "chunk_id": 8349,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Contentment & Gratitude",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Disbelief-",
+    "text": "Disbelief is disappointment [and failure].1",
+    "chunk_id": 8840,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (bracketed text and trailing digit) indicating extraction error.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 8,
+    "topic": "Recompense-",
+    "text": "Return the stone from whence it came to you, for indeed evil is not repulsed except by evil.1",
+    "chunk_id": 8859,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (trailing digit) indicating extraction error.",
+    "life_situation_tags": [
+      "Enmity, Conflict & Dispute",
+      "Anger & Forgiveness"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 3,
+    "topic": "Duty-",
+    "text": "Verily Allah, the Glorified, commanded His servants by choice and forbade them by warning. He made duties easy and did not impose difficult duties. For a little He gave plenty. He is not disobeyed out of defeat nor is He obeyed by force. He did not send prophets for sport, nor did He reveal the Book to the creation for amusement. He did not create the Heavens and the earth in vain: That is a conjecture of the faithless. So woe to the faithless for the Fire.1",
+    "chunk_id": 8865,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the text.",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "The Afterlife (Paradise, Hellfire, Resurrection)",
+      "Divine Decree & Trust in Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 13,
+    "topic": "The tongue-",
+    "text": "A person is hidden under his tongue.1",
+    "chunk_id": 9091,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 30,
+    "topic": "The tongue-",
+    "text": "How much blood has been spilt by the mouth!2",
+    "chunk_id": 9108,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (trailing number) at the end of the sentence.",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence",
+      "Enmity, Conflict & Dispute"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 32,
+    "topic": "The tongue-",
+    "text": "The tongue of the intelligent person is behind his heart.3",
+    "chunk_id": 9110,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (trailing number) at the end of the sentence.",
+    "life_situation_tags": [
+      "Speech, Silence & Eloquence",
+      "Knowledge, Wisdom & Ignorance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 2,
+    "topic": "Reproach, reprimand and censure-",
+    "text": "The easiest thing is censuring the ignorant ones.1",
+    "chunk_id": 9141,
+    "flag_status": "flagged",
+    "flag_note": "contains stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 4,
+    "topic": "Gentleness and softness-",
+    "text": "One whose wood is soft, his branches become thick.1",
+    "chunk_id": 9177,
+    "flag_status": "flagged",
+    "flag_note": "contains a stray character at the end of the sentence",
+    "life_situation_tags": [
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 55,
+    "topic": "Death-",
+    "text": "In every soul there is death.1",
+    "chunk_id": 9533,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 59,
+    "topic": "Death-",
+    "text": "Every comer is near.2",
+    "chunk_id": 9537,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Time & Opportunity",
+      "Death & Mortality"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 10,
+    "topic": "Wealth and riches-",
+    "text": "The best wealth is that by which the freemen become enthralled.1",
+    "chunk_id": 9592,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 33,
+    "topic": "Wealth and riches-",
+    "text": "People serve wealth, wealth does not serve people.3",
+    "chunk_id": 9615,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (a footnote number '3') within the text.",
+    "life_situation_tags": [
+      "Wealth & Poverty",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "The viewed-",
+    "text": "There is no good in that which is viewed except when accompanied with a good source of information [or good elocution].1",
+    "chunk_id": 9844,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters and bracketed editorial notes indicating extraction errors.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Speech, Silence & Eloquence"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 129,
+    "topic": "The soul and holding it to account-",
+    "text": "Be the guardian of your soul, and do with your possessions that which you would like others to do with it.1",
+    "chunk_id": 10028,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 255,
+    "topic": "The soul and holding it to account-",
+    "text": "One who cannot control his [carnal] soul is not safe from [the wrath and punishment of] Allah.2",
+    "chunk_id": 10154,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray numeric character at the end of the text.",
+    "life_situation_tags": [
+      "Self-Discipline & the Soul",
+      "Faith, Worship & Devotion to Allah"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 11,
+    "topic": "Giving and withholding charity-",
+    "text": "One who gives with a short arm is given with a long arm.2",
+    "chunk_id": 10186,
+    "flag_status": "flagged",
+    "flag_note": "Contains stray characters (numeric footnote/reference) within the text.",
+    "life_situation_tags": [
+      "Charity & Generosity"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 12,
+    "topic": "Giving and withholding charity-",
+    "text": "Verily you are more in need of giving charity from what you have earned than acquiring what you accumulate. little charity that he gives. For the entire explanation refer to the commentary of Nahj al-Balāgha, Hikma no. 232",
+    "chunk_id": 10187,
+    "flag_status": "flagged",
+    "flag_note": "Contains extraneous commentary and citation text appended to the quotation.",
+    "life_situation_tags": [
+      "Charity & Generosity",
+      "Wealth & Poverty"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 1,
+    "topic": "Intention-",
+    "text": "Righteous intention is one of the two actions.1",
+    "chunk_id": 10327,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numerical character (footnote marker) at the end of the sentence.",
+    "life_situation_tags": [
+      "Sincerity & Hypocrisy"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 47,
+    "topic": "Affection and friendship-",
+    "text": "No one befriends the wicked except those who are like them.1",
+    "chunk_id": 10412,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray character (digit 1) at the end of the sentence.",
+    "life_situation_tags": [
+      "Friendship & Companionship"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 18,
+    "topic": "Humility-",
+    "text": "Through humility the loftiness [of a person] is measured.1",
+    "chunk_id": 10548,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numeric character at the end of the sentence.",
+    "life_situation_tags": [
+      "Humility & Arrogance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 2,
+    "topic": "The Child-",
+    "text": "A child is one of the two enemies.1",
+    "chunk_id": 10800,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numerical character at the end of the sentence.",
+    "life_situation_tags": [
+      "Family, Parents & Marriage"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 7,
+    "topic": "True guidance from Allah-",
+    "text": "How can the one who is astray be guided aright when the guide [he follows] is heedless?!1",
+    "chunk_id": 10828,
+    "flag_status": "flagged",
+    "flag_note": "Contains trailing garbled characters at the end of the sentence.",
+    "life_situation_tags": [
+      "Knowledge, Wisdom & Ignorance",
+      "Leadership & Governance"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 62,
+    "topic": "Vain desire-",
+    "text": "He is drawing in large buckets [from the well] of his vain desire and exerting a lot of efforts for his worldly life.1",
+    "chunk_id": 10940,
+    "flag_status": "flagged",
+    "flag_note": "Contains a stray numerical character at the end of the sentence.",
+    "life_situation_tags": [
+      "Greed & Ambition",
+      "Self-Discipline & the Soul"
+    ]
+  },
+  {
+    "source_book": "Ghurar al-Hikam",
+    "saying_number": 50,
+    "topic": "Certitude-",
+    "text": "Those who possess certitude, the dedicated [and sincere] ones and the altruistic ones are from the people of the Elevations.1",
+    "chunk_id": 11056,
+    "flag_status": "flagged",
+    "flag_note": "contains stray characters/formatting at the end of the string",
+    "life_situation_tags": [
+      "Faith, Worship & Devotion to Allah",
+      "Sincerity & Hypocrisy",
+      "Charity & Generosity"
+    ]
+  }
+]
